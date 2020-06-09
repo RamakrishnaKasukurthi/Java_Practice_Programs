@@ -36,7 +36,7 @@ public class Pyramid_Patterns {
   
             // inner loop to handle number spaces 
             // values changing acc. to requirement 
-            for(j=2*(n-i); j>=0; j--) 
+            for(j=(n-i); j>=0; j--) 
             { 
                 // printing spaces 
                 System.out.print(" "); 
