@@ -32,6 +32,10 @@ public class Hello_World {
 		 * int [] b= {40,50}; a=b; System.out.println(a); System.out.println(b);
 		 * System.out.println(a[0]);
 		 */
+		
+		String s1="rama";
+		String S2="Krishna";
+		s1="Selenium";
 	}
 
 }
